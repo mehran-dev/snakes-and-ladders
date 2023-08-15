@@ -1,0 +1,30 @@
+C:\Users\xxx\Desktop\game\game\bin\Debug\game.exe
+C:\Users\xxx\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\xxx\Desktop\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Desktop\game\game\obj\Debug\game.Form1.resources
+C:\Users\xxx\Desktop\game\game\obj\Debug\game.Form2.resources
+C:\Users\xxx\Desktop\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\xxx\Desktop\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\xxx\Desktop\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\game\game\obj\Debug\game.exe
+C:\Users\xxx\Desktop\game\game\obj\Debug\game.pdb
+E:\Learning Film\C#\Lovely Program Sources\MyProject\مار و پله\game\game\bin\Debug\game.exe
+E:\Learning Film\C#\Lovely Program Sources\MyProject\مار و پله\game\game\bin\Debug\game.pdb
+E:\Learning Film\C#\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+E:\Learning Film\C#\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.Form1.resources
+E:\Learning Film\C#\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.Form2.resources
+E:\Learning Film\C#\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.Properties.Resources.resources
+E:\Learning Film\C#\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.csproj.GenerateResource.cache
+E:\Learning Film\C#\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+E:\Learning Film\C#\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.exe
+E:\Learning Film\C#\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.pdb
+D:\C#\prefect sourcess\Lovely Program Sources\MyProject\مار و پله\game\game\bin\Debug\game.exe
+D:\C#\prefect sourcess\Lovely Program Sources\MyProject\مار و پله\game\game\bin\Debug\game.pdb
+D:\C#\prefect sourcess\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+D:\C#\prefect sourcess\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.Form1.resources
+D:\C#\prefect sourcess\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.Form2.resources
+D:\C#\prefect sourcess\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.Properties.Resources.resources
+D:\C#\prefect sourcess\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\C#\prefect sourcess\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\C#\prefect sourcess\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.exe
+D:\C#\prefect sourcess\Lovely Program Sources\MyProject\مار و پله\game\game\obj\Debug\game.pdb
